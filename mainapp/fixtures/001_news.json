@@ -1,0 +1,29 @@
+[{"model": "mainapp.news", 
+"pk": 1, "fields": {"title": "news_1", 
+"preambule": "news_1_preambule", 
+"body": "news_1_body", "body_as_markdown": false, 
+"created": "2022-11-12T13:29:18.598Z", "updated": "2022-11-12T13:29:18.598Z", 
+"deleted": false}}, 
+
+{"model": "mainapp.news", "pk": 2, 
+"fields": {"title": "news_2", "preambule": "news_2_preambule", 
+"body": "news_2_body", 
+"body_as_markdown": false, 
+"created": "2022-11-12T13:30:38.244Z", 
+"updated": "2022-11-12T13:30:38.244Z", "deleted": false}}, 
+
+{"model": "mainapp.news", "pk": 3, 
+"fields": {"title": "news_2", 
+"preambule": "news_2_preambule", 
+"body": "news_2_body", "body_as_markdown": false, "created": "2022-11-12T13:31:30.749Z", 
+"updated": "2022-11-12T13:31:30.749Z", 
+"deleted": false}},
+
+{"model": "mainapp.news", "pk": 4, "fields": {"title": "news_1", 
+"preambule": "news_1_preambule", "body": "news_1_body", "body_as_markdown": false, "created": "2022-11-12T13:31:46.587Z", 
+"updated": "2022-11-12T13:31:46.587Z", "deleted": false}},
+
+{"model": "mainapp.news", "pk": 5, "fields": {"title": "Новость_5", 
+"preambule": "News2preambule", 
+"body": null, "body_as_markdown": false, "created": "2022-11-12T13:57:01.680Z", 
+"updated": "2022-11-12T13:57:01.680Z", "deleted": false}}]
