@@ -1,0 +1,123 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 16:08+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
+"%100>=11 && n%100<=14)? 2 : 3);\n"
+
+msgid "Please, entera valid age!"
+msgstr "Пожалуйста, введите корректный возраст"
+
+msgid "username"
+msgstr "имя пользователя"
+
+msgid "Required. 150 characters or fewer. ASCII letters and digits only."
+msgstr "Обязательно. До 150 символов. Только латинские буквы и цифры"
+
+msgid "A user with that username already exists."
+msgstr "Пользователь с таким именем уже существует."
+
+msgid "first name"
+msgstr "Имя"
+
+msgid "last name"
+msgstr "Фамилия"
+
+msgid "email address"
+msgstr "email адрес"
+
+msgid "A user with that email address already exists."
+msgstr "Пользователь с таким email уже существует."
+
+msgid "staff status"
+msgstr "Служебный персонал"
+
+msgid "Designates whether the user can log into this admin site."
+msgstr "Указывает, может ли пользователь войти как администратор"
+
+msgid "active"
+msgstr "активно"
+
+msgid ""
+"Designates whether this user should be treated as active. \\ Unselect this "
+"instead of deleting accounts."
+msgstr ""
+
+msgid "date joined"
+msgstr ""
+
+msgid "user"
+msgstr "пользователь"
+
+msgid "users"
+msgstr "пользователи"
+
+#, python-format
+msgid "Login success!<br>Hi, %(username)s"
+msgstr "Успешный вход!<br>Добрый день, %(username)s"
+
+msgid "See you later!"
+msgstr "Увидимся позже."
+
+msgid "News"
+msgstr "Новости"
+
+msgid "Course"
+msgstr "Курс"
+
+msgid "User"
+msgstr "Пользователь"
+
+msgid "No feedback"
+msgstr "Нет отзывов"
+
+msgid "Feedback"
+msgstr "Отзыв"
+
+msgid "Rating"
+msgstr "Рейтинг"
+
+msgid "Django site admin"
+msgstr "Административный раздел Django"
+
+msgid "Courses"
+msgstr "Курсы"
+
+msgid "Profile"
+msgstr "Профиль"
+
+msgid "Edit Profile"
+msgstr "Редактировать профиль"
+
+msgid "My Courses"
+msgstr "Мои Курсы"
+
+msgid "Moderation"
+msgstr "Модерация"
+
+msgid "Admin sector"
+msgstr "Административный раздел"
+
+msgid "Exit"
+msgstr "Выход"
+
+msgid "Login"
+msgstr "Вход"
+
+msgid "Contacts"
+msgstr "Контакты"
